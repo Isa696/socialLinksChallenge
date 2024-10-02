@@ -1,4 +1,4 @@
-Social Links Card
+Social Links Card <br/>
 Este proyecto es una tarjeta de enlaces sociales creada como parte de un desafío de Frontend Developers. Aunque utiliza HTML y CSS sencillos, es una excelente oportunidad para practicar y mejorar mis habilidades como desarrollador.
 
 Descripción
